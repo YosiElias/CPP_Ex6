@@ -1,0 +1,7 @@
+# ninja log v5
+1	462	6772966032332439	build.ninja	d92cb1b3c82488b9
+1	246	6772850740591449	CMakeFiles/Ex6.dir/source/Team.cpp.obj	50d83f6ee9326e2
+1158	1513	6772962725529993	Ex6.exe	ebe1d967869773af
+23	1182	6772959726370001	CMakeFiles/Ex6.dir/source/Game.cpp.obj	10012495ec9dcacc
+6	1157	6772962722062004	CMakeFiles/Ex6.dir/main.cpp.obj	b52807aea034ecb4
+19	1049	6772959724964080	CMakeFiles/Ex6.dir/source/Leauge.cpp.obj	2c98e87b6c15d3a2
